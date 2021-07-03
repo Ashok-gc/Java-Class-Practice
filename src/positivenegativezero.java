@@ -16,7 +16,7 @@ public class positivenegativezero{
         {
             System.out.println(num + " The given number is negative");
         }
-        else if (num == 0)
+        else
         {
             System.out.println(num + " The given number is zero");
         }
